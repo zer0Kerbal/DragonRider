@@ -4,7 +4,7 @@ I'm porting this modpack to the latest KSP version. Most of this is updating the
 There's other problems.
 
 **Forum Links:**
-Original [link:]http://forum.kerbalspaceprogram.com/index.php?/topic/24217-*)
+Original [link:](http://forum.kerbalspaceprogram.com/index.php?/topic/24217-*)
 
 ## Mod Support:
 
