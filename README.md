@@ -6,7 +6,7 @@ There's other problems.
 **Forum Links:**
 Original link: [http://forum.kerbalspaceprogram.com/index.php?/topic/24217-dragon-rider-capsule-023-21414/]
 
-##Mod Support:
+## Mod Support:
 
 * Lazor
 * Kerbalism
@@ -14,22 +14,22 @@ Original link: [http://forum.kerbalspaceprogram.com/index.php?/topic/24217-drago
 * MechJeb
 * CTT
 
-##INSTALL:
+## INSTALL:
 
 Unzip into your main KSP folder, delete old versions before that. Have module manager already installed.
 
-##CONTAINTS:
+## CONTAINS:
 
 * Dragon Capsule
 * Trunk
 * Solar Panel Covers
 * Nose cone
 
-##NOTES:
+## NOTES:
 
 * known issue with the offset of the thrusters, help appreciated
 
-##Changes
+## Changes
 
 * fixes for KSP 1.8.1
 * fixes for KSP 1.2.2
@@ -44,11 +44,11 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 * science container and crew report
 * integrated transmitter
 
-##CREDITS:
+## CREDITS:
 
 * cBBp for original setup
 
-##LICENSE
+## LICENSE
 
 ![alt tag](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
 
