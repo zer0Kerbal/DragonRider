@@ -14,7 +14,7 @@ repository:
   description: Dragon Rider (Originally By cBBp) for Kerbal Space Program.
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/156873-*/
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/210281-*/
 
   # A comma-separated list of topics to set on the repository
   topics: dragon,rider,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-mods,CardBoardBoxProcessor,CBBP,MacLuky,zedk,contributions-welcome,hacktoberfest,mods
@@ -260,10 +260,6 @@ labels:
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
   - title: 1.0.0.0-release
-    description: progress toward 1.0.0.0-release
-    state: open
-
-  - title: 0.9.99.0-adoption
     description: progress toward 1.0.0.0-release
     state: open
 
