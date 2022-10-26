@@ -14,7 +14,7 @@ updated: 04 Oct 2022 -->
 
 # Dragon Rider (DRAGR)
 
-The Dragon Capsule is basically the minivan of space transportation with it's ability to hold Seven crew members and it's spacious interior. It comes fully equipped with built in a docking and propulsion to allow it to shuttle its crew and cargo about in orbit. The Dragons array of Lights, landing gear and engines enable it to be the perfect drop pod to make landings on any celestial body.
+
 
 
 
@@ -25,6 +25,15 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/img/HeroLogo_1920x1920.png" alt="DragonRider Hero" width="50%" height="50%">
 
 ### Preamble by [CardBoardBoxProcessor][cbbp]
+
+> The Dragon Capsule is basically the minivan of space transportation with it's ability to hold Seven crew members and it's spacious interior. It comes fully equipped with built in a docking and propulsion to allow it to shuttle its crew and cargo about in orbit. The Dragons array of Lights, landing gear and engines enable it to be the perfect drop pod to make landings on any celestial body.
+
+## CONTAINS:
+
+* Dragon Capsule
+* Trunk
+* Solar Panel Covers
+* Nose cone
 
 ---
 
@@ -87,6 +96,12 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+
+* Lazor
+* Kerbalism
+* TAC
+* MechJeb
+* CTT
 
 ### Tags
 
@@ -169,15 +184,15 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/24217-*/ "KSP Forum"
 
 <!--- license provenance -->
-[LIC:1:url]: https://creativecommons.org/licenses/by-nc-nd/3.0/ "CC BY-NC-SD 3.0 US"
+[LIC:1:url]: https://creativecommons.org/licenses/by-nc-nd/3.0/us/ "CC BY-NC-SD 3.0 US"
 [LIC:1:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SD 3.0 US"
 [LIC:1:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SD 3.0 US"
 
-[LIC:0:url]: https://creativecommons.org/licenses/by-nc-nd/3.0/ "CC BY-NC-SD 3.0 US"
+[LIC:0:url]: https://creativecommons.org/licenses/by-nc-nd/3.0/us/ "CC BY-NC-SD 3.0 US"
 [LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SD 3.0 US"
 [LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SD 3.0 US"
 
-[LIC:url]: https://creativecommons.org/licenses/by-nd/3.0/ "CC BY-SD 3.0"
+[LIC:url]: https://creativecommons.org/licenses/by-nd/3.0/us/ "CC BY-SD 3.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-sd/transparent/33/66/99/76x22.png "CC BY-SD 3.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/json/license.json "CC BY-SD 3.0"
 
