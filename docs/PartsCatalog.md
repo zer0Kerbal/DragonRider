@@ -19,20 +19,24 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds five (5) parts
 
 ---
 
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
+* Dragon Capsule
+* Dragon Trunk
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/GameData/DragonRider/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/GameData/DragonRider/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/docs/%40thumbs/DragonCapsule_icon.png" alt="Dragon Capsule" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/docs/%40thumbs/DragonTrunk_icon.png" alt="Dragon Trunk" width="25%" height="25%" />
 
-* MicroPad
-* OrbitalDock
+[top][#parts-catalog]
 
----
+* Dragon Cover
+* Dragon Saddle
+* Dragon Nosecone
 
-[top](#parts-catalog)
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/docs/%40thumbs/DragonCover_icon.png" alt="Dragon Cover" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/docs/%40thumbs/DragonSaddle_icon.png" alt="Dragon Saddle" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/docs/%40thumbs/DragonNosecone_icon.png" alt="Dragon Nosecone" width="25%" height="25%" />
+
+[top][#parts-catalog]
+
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
