@@ -26,12 +26,13 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 > The Dragon Capsule is basically the minivan of space transportation with it's ability to hold Seven crew members and it's spacious interior. It comes fully equipped with built in a docking and propulsion to allow it to shuttle its crew and cargo about in orbit. The Dragons array of Lights, landing gear and engines enable it to be the perfect drop pod to make landings on any celestial body.
 
-## CONTAINS:
+## Contains
 
 * Dragon Capsule
 * Trunk
 * Solar Panel Covers
 * Nose cone
+* Saddle
 
 ---
 
@@ -50,6 +51,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 [![Kottabos reviews DragonRider](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
 
+https://www.youtube.com/watch?v=dJhNYbBdhtc
+https://www.youtube.com/watch?v=akvqj7HuiZE
+https://www.youtube.com/watch?v=q2JKM4KZaDw
 ### Help Wanted
 
 > * Compatibility patches
