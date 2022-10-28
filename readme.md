@@ -103,12 +103,12 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-
-* Lazor
-* Kerbalism
-* TAC
-* MechJeb
-* CTT
+* [Lazor][lazor]
+* [Kerbalism][kerb]
+* [TAC][tac]
+* [MechJeb 2][mj]
+* [CTT][ctt]
+* [TweakScale][twk]
 
 ### Tags
 
@@ -123,7 +123,7 @@ parts, config
 
 ### Credits and Special Thanks
 
-* [CardBoardBoxProcessor][cbbp] for creating this glorious parts addon!
+* [CardBoardBoxProcessor (cBBp)][cbbp] for creating this glorious parts addon!
 * [MacLuky][macluky] for the picking up where [CardBoardBoxProcessor][cbbp] left off
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
@@ -177,8 +177,6 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/json/mod.json
 
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/json/code.json
-
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
@@ -226,20 +224,14 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
-[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
-[kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
-[mas]:  https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
-[rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[lazor]: https://www.curseforge.com/kerbal/ksp-mods/lazor-docking-cam "Lazor"
+[kerb]: https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*/ "Kerbalism"
+[tac]: https://github.com/KSP-RO/TacLifeSupport "TAC"
+[mj]: http://forum.kerbalspaceprogram.com/index.php?/topic/154834-*/ "MechJeb"
+[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/* "CTT"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
@@ -300,5 +292,3 @@ Track progress: issues [here][MOD:issue] and projects [here](https://github.com/
 [^1]: this isn't a mod. ;P  
 [^2]: ***may*** work on other versions (YMMV)  
 [^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*  
-
-[//]: # (This behaves like a comment)
