@@ -12,7 +12,7 @@ updated: 04 Oct 2022 -->
 
 # Dragon Rider (DRAGR)
 
-
+An early version of the Dragon capsule
 
 
 
@@ -26,12 +26,13 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 > The Dragon Capsule is basically the minivan of space transportation with it's ability to hold Seven crew members and it's spacious interior. It comes fully equipped with built in a docking and propulsion to allow it to shuttle its crew and cargo about in orbit. The Dragons array of Lights, landing gear and engines enable it to be the perfect drop pod to make landings on any celestial body.
 
-## CONTAINS:
+## Contains
 
 * Dragon Capsule
-* Trunk
+* Trunk (with solar wings)
 * Solar Panel Covers
 * Nose cone
+* Saddle
 
 ---
 
@@ -46,9 +47,17 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ---
 
-### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+### YouTube videos
 
-[![Kottabos reviews DragonRider](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
+#### by [`CardBoardBoxProcessor`][cbbp]
+
+[![KSP Dragon Rider Mun Landing and OP Return.](https://img.youtube.com/vi/dJhNYbBdhtc/0.jpg)](https://www.youtube.com/watch?v=dJhNYbBdhtc)
+
+#### by [`SaFalken`](https://www.youtube.com/user/SaFalken)
+
+[![Destination: Duna - cBBp Dragon Rider Trailer](https://img.youtube.com/vi/akvqj7HuiZE/0.jpg)](https://www.youtube.com/watch?v=akvqj7HuiZE)
+
+### YouTube video by [`SaFalken`](https://www.youtube.com/user/SaFalken)
 
 ### Help Wanted
 
@@ -94,12 +103,12 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
-
-* Lazor
-* Kerbalism
-* TAC
-* MechJeb
-* CTT
+* [Lazor][lazor]
+* [Kerbalism][kerb]
+* [TAC][tac]
+* [MechJeb 2][mj]
+* [CTT][ctt]
+* [TweakScale][twk]
 
 ### Tags
 
@@ -114,7 +123,7 @@ parts, config
 
 ### Credits and Special Thanks
 
-* [CardBoardBoxProcessor][cbbp] for creating this glorious parts addon!
+* [CardBoardBoxProcessor (cBBp)][cbbp] for creating this glorious parts addon!
 * [MacLuky][macluky] for the picking up where [CardBoardBoxProcessor][cbbp] left off
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
@@ -168,8 +177,6 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/json/mod.json
 
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/json/code.json
-
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
@@ -206,7 +213,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [GITHUB:url]: https://github.com/zer0Kerbal/DragonRider/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[SPCDCK:url]: http://spacedock.info/mod/00000 "SpaceDock"
+[SPCDCK:url]: http://spacedock.info/mod/3140 "SpaceDock"
 [SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
 
 <!-- Kerbal Space Program -->
@@ -217,20 +224,14 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
-[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
-[kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
-[mas]:  https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
-[rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[lazor]: https://www.curseforge.com/kerbal/ksp-mods/lazor-docking-cam "Lazor"
+[kerb]: https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*/ "Kerbalism"
+[tac]: https://github.com/KSP-RO/TacLifeSupport "TAC"
+[mj]: http://forum.kerbalspaceprogram.com/index.php?/topic/154834-*/ "MechJeb"
+[ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-*/* "CTT"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
@@ -291,5 +292,3 @@ Track progress: issues [here][MOD:issue] and projects [here](https://github.com/
 [^1]: this isn't a mod. ;P  
 [^2]: ***may*** work on other versions (YMMV)  
 [^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*  
-
-[//]: # (This behaves like a comment)
