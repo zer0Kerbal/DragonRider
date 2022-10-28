@@ -28,7 +28,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ## Contains
 
-* Dragon Capsule
+* Dragon Capsule with custom IVA that seats seven
 * Trunk (with solar wings)
 * Solar Panel Covers
 * Nose cone
