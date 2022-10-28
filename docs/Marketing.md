@@ -25,58 +25,38 @@ based upon work by LisiasT -->
 * Table of Contents
   * [Assemble](#assemble)
   * [Launch](#launch)
-  * [Profit](#profit)
-  * [Reenter](#reenter)
+  * [On Mission](#on-mission)
+  * [On Approach to Landing](#on-approach-to-landing)
   * [Land](#land)
   
-### Family Photo
+### Assemble
 
-<img src="https://github.com/zer0Kerbal/DragonRider/blob/master/img/MARKETING-01.jpg" alt="" width="100%" height="100%">
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/img/MARKETING-01.jpg" alt="" width="75%" height="75%">
 
-![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
-[top](#table-of-contents)
+[top](#dragon-rider-dragr)
 
-### Mining Ore
+### Launch
 
-First mine the ore *(after you find it)*
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/img/MARKETING-02.jpg" alt="" width="75%" height="75%">
 
-![Mining Ore][IMG:hero:2a]
-[top](#table-of-contents)
+[top](#dragon-rider-dragr)
 
-### Refining Ore to Metal
+### On Mission
 
-Then refine the ore into metal
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/img/MARKETING-03.jpg" alt="" width="75%" height="75%">
 
-![Refining Ore to Metal][IMG:hero:2b]
-[top](#table-of-contents)
+[top](#dragon-rider-dragr)
 
-### Printing Rocketparts from Metal
+### On Approach to Landing
 
-Then using the MPL Science lab, print Rocket Parts
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/img/MARKETING-04.png" alt="" width="75%" height="75%">
 
-![Printing Rocketparts from Metal][IMG:hero:2c]
-[top](#table-of-contents)
+[top](#dragon-rider-dragr)
 
-### Building Rockets
+### Land
 
-Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/img/MARKETING-05.png" alt="" width="75%" height="75%">
 
-![Building Rockets][IMG:hero:2d]
-[top](#table-of-contents)
-
-### Finalize build
-
-Finalize your build and load up the resources, and
-
-*PROFIT!*
-
-![Finalize build!][IMG:hero:2e]
-[top](#table-of-contents))
-
-[IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
-[IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
-[IMG:hero:2c]: https://i.imgur.com/jhbus6m.png "Printing Rocketparts from Metal"
-[IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
-[IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
+[top](#dragon-rider-dragr)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
