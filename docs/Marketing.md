@@ -16,23 +16,22 @@ based upon work by LisiasT -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-# Dragon Rider (DRAGR) [WIP]
+# Dragon Rider (DRAGR)
 
 [Home](./index.md)
 
 ## Marketing Slicks
 
 * Table of Contents
-  * [Family Photo](#family-photo)
-  * [Mining Ore](#mining-ore)
-  * [Refining Ore to Metal](#refining-ore-to-metal)
-  * [Printing Rocketparts from Metal](#printing-rocketparts-from-metal)
-  * [Building Rockets](#building-rockets)
-  * [Finalize build](#finalize-build)
-
+  * [Assemble](#assemble)
+  * [Launch](#launch)
+  * [Profit](#profit)
+  * [Reenter](#reenter)
+  * [Land](#land)
+  
 ### Family Photo
 
-<img src="https://github.com/zer0Kerbal/FuelTanksPlus/blob/master/img/Hero-01.jpg?raw=true" alt="Fuel Tanks Plus" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/DragonRider/blob/master/img/MARKETING-01.jpg" alt="" width="100%" height="100%">
 
 ![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
 [top](#table-of-contents)
