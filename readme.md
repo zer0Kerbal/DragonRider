@@ -57,15 +57,12 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 [![Destination: Duna - cBBp Dragon Rider Trailer](https://img.youtube.com/vi/akvqj7HuiZE/0.jpg)](https://www.youtube.com/watch?v=akvqj7HuiZE)
 
-### YouTube video by [`SaFalken`](https://www.youtube.com/user/SaFalken)
-
 ### Help Wanted
 
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
-> * Converting from FireSpitter to Stock and/or KSPWheel  
-> * Model updates to Unity 2019
+> * Add an internal light
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -198,7 +195,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SD 3.0 US"
 
 [LIC:url]: https://creativecommons.org/licenses/by-nd/3.0/us/ "CC BY-SD 3.0"
-[LIC:log]: https://licensebuttons.net/i/l/by-sd/transparent/33/66/99/76x22.png "CC BY-SD 3.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 3.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DragonRider/master/json/license.json "CC BY-SD 3.0"
 
 <!--- CKAN -->
