@@ -12,7 +12,7 @@ updated: 04 Oct 2022 -->
 
 # Dragon Rider (DRAGR)
 
-
+An early version of the Dragon capsule
 
 
 
@@ -29,7 +29,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ## Contains
 
 * Dragon Capsule
-* Trunk
+* Trunk (with solar wings)
 * Solar Panel Covers
 * Nose cone
 * Saddle
@@ -47,13 +47,18 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ---
 
-### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+### YouTube videos
 
-[![Kottabos reviews DragonRider](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
+#### by [`CardBoardBoxProcessor`][cbbp]
 
-https://www.youtube.com/watch?v=dJhNYbBdhtc
-https://www.youtube.com/watch?v=akvqj7HuiZE
-https://www.youtube.com/watch?v=q2JKM4KZaDw
+[![KSP Dragon Rider Mun Landing and OP Return.](https://img.youtube.com/vi/dJhNYbBdhtc/0.jpg)](https://www.youtube.com/watch?v=dJhNYbBdhtc)
+
+#### by [`SaFalken`](https://www.youtube.com/user/SaFalken)
+
+[![Destination: Duna - cBBp Dragon Rider Trailer](https://img.youtube.com/vi/akvqj7HuiZE/0.jpg)](https://www.youtube.com/watch?v=akvqj7HuiZE)
+
+### YouTube video by [`SaFalken`](https://www.youtube.com/user/SaFalken)
+
 ### Help Wanted
 
 > * Compatibility patches
