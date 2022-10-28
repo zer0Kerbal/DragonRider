@@ -109,7 +109,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Tags
 
-parts, config
+parts, config, flags, agency, career, crewed, iva
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
